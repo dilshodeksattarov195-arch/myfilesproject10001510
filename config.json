@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperualculate",
+        "uuid": 6618330,
+        "checksum": "vmb4jj"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
